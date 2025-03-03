@@ -22,14 +22,14 @@ Esta aplicación permite a un grupo de amigos organizar un sorteo de "Amigo Secr
 ## Características de la aplicación y demostración
 
 - Agregar amigos a una lista.
-- ![image](https://github.com/user-attachments/assets/e6c7ad6f-6abc-49e3-8f56-414b003b7cca)
+![image](https://github.com/user-attachments/assets/e6c7ad6f-6abc-49e3-8f56-414b003b7cca)
 - Limpiar la entrada después de agregar un amigo.
-- ![image](https://github.com/user-attachments/assets/6e461e7b-991b-453d-996c-67d4a3d0797a)
+![image](https://github.com/user-attachments/assets/6e461e7b-991b-453d-996c-67d4a3d0797a)
 - Mostrar la lista de amigos en tiempo real.
-- ![image](https://github.com/user-attachments/assets/db0c67a8-196f-4108-90fb-513f607b366e)
+![image](https://github.com/user-attachments/assets/db0c67a8-196f-4108-90fb-513f607b366e)
 - Realizar un sorteo aleatorio y mostrar el resultado.
-- ![image](https://github.com/user-attachments/assets/6385a025-2e40-4af9-8561-8cc8d78c8c51)
-- ![image](https://github.com/user-attachments/assets/480fef5d-70cb-4391-a4f0-8b51e8595b02)
+![image](https://github.com/user-attachments/assets/6385a025-2e40-4af9-8561-8cc8d78c8c51)
+![image](https://github.com/user-attachments/assets/480fef5d-70cb-4391-a4f0-8b51e8595b02)
 
 
 ## Acceso al proyecto
